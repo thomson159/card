@@ -1,0 +1,19 @@
+# Ignoruj pliki tymczasowe
+*.log
+*.tmp
+
+# Ignoruj katalogi kompilowanych plików
+/build/
+/dist/
+
+# Ignoruj pliki konfiguracyjne lokalne
+.env
+
+# Ignoruj katalogi i pliki generowane przez IDE
+.idea/
+.vscode/
+
+# Ignoruj pliki wygenerowane podczas pracy z Node.js
+/node_modules/
+
+.firebase/
